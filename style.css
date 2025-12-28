@@ -1,0 +1,12 @@
+.resolucion{
+    width: 99%;
+    text-align: center;
+}
+@media (max-width: 700px) {
+    body {
+        height: auto;
+        min-height: 100vh;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+}
